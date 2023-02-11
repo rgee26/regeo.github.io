@@ -2,7 +2,7 @@
 
 
 <div style="color:green">
-    Markdown css styles
+    Markdown inline css styles
 </div>
 
 
