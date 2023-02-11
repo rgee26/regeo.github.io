@@ -4,20 +4,16 @@
 
 <style>
 .h1 {
-  color: blue;
-  font-family: Helvetica;
-  font-size: 700%;
-
-}
-.p  {
-  color: red;
-  font-family: Helvetica;
-  font-size: 160%;
+<style>
+.green {
+    color: green;
+    font-weight:700;
+    font-size: 30px;
 }
 </style>
 
-<div class="p">
-The BLIS online team's primary goal is to bring BLIS (Basic Laboratory Information System) online.
+<div class="green">
+    Markdown css styles
 </div>
 
 
