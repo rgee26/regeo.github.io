@@ -1,0 +1,32 @@
+{
+    "background_color": "#ffffff",
+    "description": "BLIS Online team page",
+    "dir": "ltr",
+    "display": "standalone",
+    "name": "blisonline",
+    "orientation": "any",
+    "scope": "/",
+    "short_name": "blisonline",
+    "start_url": "/",
+    "theme_color": "#ff6e42",
+    "categories": [],
+    "screenshots": [],
+    "icons": [
+      {
+        "src": "assets/images/favicon.png",
+        "type": "image/png",
+        "sizes": "48x48"
+      },
+      {
+        "src": "icons/maskable_icon.png",
+        "type": "image/png",
+        "sizes": "48x48",
+        "purpose": "any maskable"
+      },      
+      {
+        "src": "icons/splash.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "shortcuts": []
