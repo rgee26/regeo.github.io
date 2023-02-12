@@ -4,15 +4,19 @@
 
 
 * Eyerusalem Lulseged
+ 
   Role: Test
   
 * Reena George
+  
   Role: Test
   
 * Shiboo Varughese - Team lead
+  
   Role: Team Lead
   
 * Steven Anderson 
+  
   Role: Team Lead
 
 ## Project Goal
