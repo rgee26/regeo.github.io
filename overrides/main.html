@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+
+{% block extrahead %}
+{{ super() }}
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#ff6e42"/>
+{% endblock %}
+
+{% block content %}
+{{ super() }}
+<script>
+    if (typeof navigator.serviceWorker !== 'undefined') {
+        navigator.serviceWorker.register('javascripts/sw.js')
+    }
+</script>
+{% endblock %}
