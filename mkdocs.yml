@@ -1,7 +1,7 @@
 site_name: "BLIS Online"
 
 edit_uri: edit/main/docs/
-repo_url: https://github.com/rgee26/regeo.github.io.git
+repo_url: https://github.com/rgee26/regeo.github.io
 
 theme:
   name: material
