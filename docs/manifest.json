@@ -18,15 +18,16 @@
         "sizes": "48x48"
       },
       {
-        "src": "icons/maskable_icon.png",
+        "src": "assets/maskable_icon.png",
         "type": "image/png",
         "sizes": "48x48",
         "purpose": "any maskable"
       },      
       {
-        "src": "icons/splash.png",
+        "src": "assets/splash.png",
         "type": "image/png",
         "sizes": "512x512"
       }
     ],
     "shortcuts": []
+}

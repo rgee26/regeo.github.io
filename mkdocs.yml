@@ -1,7 +1,16 @@
 site_name: "BLIS Online"
 
 edit_uri: edit/main/docs/
-repo_url: https://github.com/rgee26/regeo.github.io
+repo_url: https://rgee26.github.io/regeo.github.io
+
+plugins:
+- search
+- awesome-pages
+
+markdown_extensions:
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
 
 theme:
   name: material
