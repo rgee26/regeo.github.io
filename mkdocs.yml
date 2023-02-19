@@ -1,7 +1,7 @@
 site_name: "BLIS Online"
 
 edit_uri: edit/main/docs/
-repo_url: https://rgee26.github.io/regeo.github.io
+repo_url: https://rgee26.github.io/regeo.github.io/
 
 plugins:
 - search
